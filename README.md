@@ -1,4 +1,4 @@
-<b>Hey, I am a Front-End Developer!<b>
+<h1><b>Hey, I am a Front-End Developer!</b></h1>
 <br>
 <b>Skills: </b><i>HTML,CSS,JS,REACT.js,BOOTSTRAP
 <br>
